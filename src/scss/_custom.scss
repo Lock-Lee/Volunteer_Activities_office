@@ -1,0 +1,134 @@
+// Here you can add other styles
+body {
+    @import url("https://fonts.googleapis.com/css2?family=Kanit:wght@400&display=swap");
+}
+body {
+    font-family: "Kanit" !important;
+}
+.bottom-shadow {
+    box-shadow: 0 4px 6px -6px #222;
+}
+.btn {
+    margin: 0 0.3em;
+}
+.btn-primary {
+    background-color: #0076fe;
+    border-color: #0076fe;
+    color: #ffffff;
+}
+.btn-success {
+    background-color: #66bf0a;
+    border-color: #66bf0a;
+    color: #ffffff;
+}
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    color: #ffffff;
+}
+.btn-danger {
+    background-color: #fe1602;
+    border-color: #fe1602;
+    color: #ffffff;
+}
+.color-primary {
+    color: #0076fe;
+}
+.color-success {
+    color: #66bf0a;
+}
+.color-warning {
+    color: #ffc107;
+}
+.color-danger {
+    color: #fe1602;
+}
+.color-chocolate {
+    color: #d2691e;
+}
+.c-active {
+    color: #64aaf1 !important;
+    background-color: #e6e6e6 !important;
+    border-left: 8px solid #64aaf1 !important;
+}
+.c-body {
+    background-color: #f3f3f3;
+}
+.c-header .c-subheader {
+    border: none !important;
+}
+.c-header-nav {
+    min-height: 60px;
+}
+.icon-button {
+    background: none;
+    border: none;
+    padding: 0px 4px;
+}
+.icon-button:hover {
+    opacity: 0.5;
+}
+.table th,
+.table td {
+    padding: 0.5rem;
+}
+.text-button {
+    color: #fe1602;
+    cursor: pointer;
+    padding: 0.375rem;
+    margin: 0.3em;
+}
+.text-header {
+    display: inline;
+    margin: 0px;
+}
+.tb-miter{
+    background-color: #096dd9;
+    color: white;
+}
+.colo-w{
+    color: white !important;
+}  
+.H3-St{
+    margin-top: 10px;
+   margin-bottom: 0px;
+}
+.margin15{
+    margin: 15px;
+}
+.paddingleft0{
+    padding-left: 0px !important;
+}
+.textCenterMiddle{
+    text-align: center !important;
+    vertical-align: middle !important;
+}    
+.textCenterMiddles{
+    vertical-align: middle !important;
+}    
+.textrRight{
+    text-align: right !important;
+}
+.textrSizeXX{
+    font-size: xx-large!important;
+}
+.textrSizeX{
+    font-size: x-large!important;
+}
+.textrSize{
+    font-size: large!important;
+}
+.textrLeft{
+    text-align: left !important;
+}
+.floatRight{
+    float: right!important;
+    width: 100%!important;
+}
+.W-20R{
+    width: 20% !important ;
+    float: right !important;
+}
+.textrSizeS{
+    font-size: small!important;
+}
